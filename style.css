@@ -18,7 +18,8 @@ border-bottom: 1px solid blanchedalmond !important;
   height: 700px;}
 
   body {
-    background-color: black;
+    background-color: #212529 !important;
+    color:blanchedalmond
   }
 
   footer{background-color: black;
@@ -27,3 +28,18 @@ border-bottom: 1px solid blanchedalmond !important;
   bottom: 0;
   width: 100%;
   }
+.classparrafo {
+padding-top: 20px;
+padding-bottom: 20 px;
+}
+
+.p {
+  color: aliceblue;
+}
+
+.classparrafo{
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-left: 30px;
+  padding-left: 30px;
+}
